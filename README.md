@@ -21,7 +21,7 @@ The core purpose of making the tool is to ensure better privacy on the Windows 1
 
 ## How to use
 
-Open PowerShell in administrator mode 
+Run PowerShell as administrator 
 
 Then run the following commands
 
