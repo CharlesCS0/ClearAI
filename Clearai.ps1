@@ -6,7 +6,7 @@ Do you accept - [Y] Yes or [N] No
 '
 #disclaimer
 
-$consent = Read-Host "Do you have permission to scan this device? (Y/N)"
+$consent = Read-Host "Do you have permission to remove ai features? (Y/N)"
 #asks permission to proceed
 
 if ($consent -ne 'Y' -and $consent -ne 'y') {
