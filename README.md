@@ -3,7 +3,8 @@
 # Disclaimer
 
 Modifies Windows features and registry policies.
-Use at your own risk and the author is not responsible for unexpected changes from using this script. Ensure a restart point is created
+Use at your own risk and the author is not responsible for unexpected changes from using this script. 
+Ensure a restart point is created - https://github.com/CharlesCS0/Backup
 
 ### Artificial Intelligence (AI) assisted
 
